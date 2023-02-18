@@ -1,6 +1,6 @@
 # Overview
 
-I am going to write a task manager app using Android studio and Kotlin.
+This is a task manager app using Android studio and Kotlin.
 
 The app will let users create tasks and add descriptions to them.
 
